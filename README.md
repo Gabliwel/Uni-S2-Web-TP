@@ -2,6 +2,8 @@
 
 note final: 99%
 
+équipe de 5
+
 objectif: réaliser le projet provenant d'[ici](https://github.com/GLO3102/UFood), soit à développer une application permettant de trouver des restaurants et de partager ses favoris entre amis
 
 autres infos: utilise tailwind, possible utilisation de gravatar
